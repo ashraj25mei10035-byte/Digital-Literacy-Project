@@ -1,5 +1,5 @@
 # Digital-Literacy-Project
-Student Details Field Details Name Anushka Shukla Branch B.Tech CSE (Health Informatics) Year First Year Course CSE0001 – Digital Literacy Project Overview This portfolio was created as part of the Digital Literacy course. The purpose of this project is to demonstrate essential digital skills required for students, including:
+Student Details Field Details Name Ashraj Garg Branch Integrated M.Tech CSE ( Cyber Security )  Year First Year Course CSE0001 – Digital Literacy Project Overview This portfolio was created as part of the Digital Literacy course. The purpose of this project is to demonstrate essential digital skills required for students, including:
 
 Creating professional online profiles
 
