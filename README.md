@@ -32,4 +32,4 @@ Social Media Checklist: Created a list of responsible social media practices, in
 Prevention Checklist: Developed a practical checklist for students to help prevent cybercrimes, including tips on password security, two-factor authentication, and reporting incidents.
 
 google form- https://docs.google.com/forms/d/e/1FAIpQLSf6f4a3kp69JEI4HsK8mHSFkpHFA82I5_P_WAqGPcjeN4zyIQ/viewform?usp=publish-editor 
-githup-https://github.com/ashraj25mei10035-byte/Digital-Literacy-Project/edit/main/README.m
+github-https://github.com/ashraj25mei10035-byte/Digital-Literacy-Project/edit/main/README.m
